@@ -1,0 +1,3 @@
+
+
+class NoPuedeArreglarMaquina inherits Exception {}
